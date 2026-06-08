@@ -1,0 +1,23 @@
+## 🖱️ Cursor Watch — 2026-06-08
+
+**Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
+
+**Headline:** SpaceX (which merged xAI into its AI division Feb 2026) holds an option to acquire Cursor for ~$60B, or pay $10B for joint work, ~30 days after SpaceX's planned IPO (projected June 12, 2026).
+
+**Shipped (latest, v3.7 · Jun 5, 2026):** With Design Mode in the Cursor browser, you can click, draw, or describe changes by voice to help agents update your UI.
+
+**Adoption signals today:**
+- [Do companies let engineers use agents like Claude or Cursor?](https://www.reddit.com/r/cursor/comments/1pqp4cg/do_companies_let_engineers_use_agents_like_claude/) — _reddit.com_
+- [Cursor AI: The AI Code Editor developers are using - The Tech Society](https://digitalstrategy-ai.com/2025/11/07/cursor-ai-business-model/) — _digitalstrategy-ai.com_
+- [As an Engineering Manager, I Let Cursor Rewrite Our Legacy App](https://medium.com/@reachtovijendra/as-an-engineering-manager-i-let-cursor-rewrite-our-legacy-app-heres-what-i-learned-about-ai-e6eecf080148) — _medium.com_
+
+**In the news:**
+- [Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...](https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation) — _theinformation.com_
+- [AI-Powered Coding Tool Anysphere Lands $900M At $9B — Report](https://news.crunchbase.com/ai/anysphere-ai-coding-cursor-funding-valuation/) — _news.crunchbase.com_
+- [Anysphere (Cursor) Valuation - PM Insights](https://www.pminsights.com/companies/anysphere-cursor) — _pminsights.com_
+
+**▶️ Watch it built:** [Cursor AI Tutorial for Beginners: Build an App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)
+
+🔗 **Full live dashboard:** https://eferrao.github.io/cursor-watch/
+
+_Auto-generated daily via Firecrawl. Figures from press reports; verify before relying on them._
