@@ -1,0 +1,37 @@
+{
+  "company": {
+    "product": "Cursor",
+    "company_name": "Anysphere",
+    "one_liner": "AI-first code editor / agent-first coding platform built by Anysphere.",
+    "latest_valuation": "$29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026)",
+    "latest_arr": "~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026",
+    "fortune500": "Used by 64% of Fortune 500 companies (per cursor.com/enterprise)",
+    "headline_deal": "SpaceX (which merged xAI into its AI division Feb 2026) holds an option to acquire Cursor for ~$60B, or pay $10B for joint work, ~30 days after SpaceX's planned IPO (projected June 12, 2026)."
+  },
+  "funding_timeline": [
+    {"date": "2025-01", "event": "$100M ARR reported", "source": "https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/"},
+    {"date": "2025-06", "event": "Series C — $9.9B valuation, surpasses $500M ARR", "source": "https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/"},
+    {"date": "2025-11", "event": "Series D — $2.3B raised at $29.3B valuation", "source": "https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html"},
+    {"date": "2026-02", "event": "Reaches ~$2B ARR (reported); fastest B2B 0→$2B in ~3 years", "source": "https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding"},
+    {"date": "2026-04", "event": "Reportedly in talks to raise ~$2B at ~$50B valuation (a16z, Thrive, Nvidia)", "source": "https://techfundingnews.com/cursor-anysphere-2b-funding-50b-valuation-ai-coding/"},
+    {"date": "2026-04-21", "event": "SpaceX announces option to acquire Cursor for ~$60B (or $10B for joint work), ~30 days post-IPO", "source": "https://www.cnbc.com/2026/04/21/spacex-says-it-can-buy-cursor-later-this-year-for-60-billion-or-pay-10-billion-for-our-work-together.html"}
+  ],
+  "adopters": [
+    {"company": "Stripe", "stat": "Grew from hundreds to thousands of employees; adoption went from single digits to 80%+", "person": "Patrick Collison, Co-Founder & CEO", "source": "https://cursor.com/customers"},
+    {"company": "Salesforce", "stat": "90%+ of ~20,000 developers use Cursor; double-digit gains in cycle time, PR velocity, code quality", "person": "", "source": "https://www.getpanto.ai/blog/cursor-ai-statistics"},
+    {"company": "NVIDIA", "stat": "CEO: ~40,000 engineers now assisted by AI via Cursor", "person": "Jensen Huang, CEO", "source": "https://www.getpanto.ai/blog/cursor-ai-statistics"},
+    {"company": "Brex", "stat": "70%+ of engineers use Cursor; faster migrations, debugging, onboarding", "person": "James Reggio, CTO", "source": "https://cursor.com/customers"},
+    {"company": "OpenAI", "stat": "President endorses Cursor as where frontier models 'shine brightest'", "person": "Greg Brockman, President", "source": "https://cursor.com/customers"},
+    {"company": "Sentry", "stat": "Dozens of agent branches merging daily; a 'scale-multiplier for the whole org'", "person": "Cody De Arkland, Senior Director", "source": "https://cursor.com/customers"},
+    {"company": "Carlyle", "stat": "Portfolio + internal engineering teams using Cursor to accelerate roadmaps", "person": "Daniel Ducic, Investor", "source": "https://cursor.com/customers"},
+    {"company": "PwC", "stat": "Named among tens of thousands of enterprises using Cursor", "person": "", "source": "https://cursor.com/enterprise"}
+  ],
+  "videos": [
+    {"title": "Cursor AI Tutorial for Beginners: Build an App with AI (2026)", "id": "oQDCAJnr1aU", "note": "Beginner build-along"},
+    {"title": "How To Use Cursor AI 2.0 — Full Tutorial for Beginners (2026)", "id": "-PcOTX15geI", "note": "Full workflow walkthrough"}
+  ],
+  "product_milestones": [
+    {"date": "2026-04", "event": "Cursor 3 — agent-first interface, moving beyond the IDE model", "source": "https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/"},
+    {"date": "2026-06", "event": "Design Mode in the Cursor browser (click/draw/voice to direct UI agents)", "source": "https://cursor.com/changelog"}
+  ]
+}

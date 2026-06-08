@@ -1,0 +1,4 @@
+.firecrawl_key
+raw/
+__pycache__/
+*.pyc
