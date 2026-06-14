@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13 12:28 UTC",
-  "as_of": "2026-06-13",
+  "generated_at": "2026-06-14 13:00 UTC",
+  "as_of": "2026-06-14",
   "company": {
     "product": "Cursor",
     "company_name": "Anysphere",
@@ -141,73 +141,73 @@
       "title": "Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...",
       "url": "https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation",
       "source": "theinformation.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "Anysphere (Cursor) Valuation - PM Insights",
       "url": "https://www.pminsights.com/companies/anysphere-cursor",
       "source": "pminsights.com",
-      "seen": "2026-06-13"
-    },
-    {
-      "title": "AI Firm Cursor Hits $29.3 Billion Valuation After Fresh Funding ...",
-      "url": "https://www.tradealgo.com/news/ai-firm-cursor-hits-29-3-billion-valuation-after-fresh-funding-according-to-wsj",
-      "source": "tradealgo.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "AI-Powered Coding Tool Anysphere Raises $900M at $9.9B Valuation",
       "url": "https://news.crunchbase.com/ai/anysphere-cursor-venture-funding-thrive/",
       "source": "news.crunchbase.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
+    },
+    {
+      "title": "AI Firm Cursor Hits $29.3 Billion Valuation After Fresh Funding ...",
+      "url": "https://www.tradealgo.com/news/ai-firm-cursor-hits-29-3-billion-valuation-after-fresh-funding-according-to-wsj",
+      "source": "tradealgo.com",
+      "seen": "2026-06-14"
     },
     {
       "title": "Cursor to raise $2B from Andreessen Horowitz and Thrive Capital at ...",
       "url": "https://techfundingnews.com/cursor-anysphere-2b-funding-50b-valuation-ai-coding/",
       "source": "techfundingnews.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
-      "title": "Cursor in talks to raise $2B at $50B valuation after hitting $2B ... - TNW",
-      "url": "https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding",
-      "source": "thenextweb.com",
-      "seen": "2026-06-13"
+      "title": "What Is Anysphere? History of Cursor AI (2026) - Taskade",
+      "url": "https://www.taskade.com/blog/anysphere-cursor-history",
+      "source": "taskade.com",
+      "seen": "2026-06-14"
     },
     {
       "title": "37. Cursor - CNBC",
       "url": "https://www.cnbc.com/2026/05/19/cursor-cnbc-disruptor-50-ranking.html",
       "source": "cnbc.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
+    },
+    {
+      "title": "Cursor",
+      "url": "https://anysphere.inc/",
+      "source": "anysphere.inc",
+      "seen": "2026-06-14"
+    },
+    {
+      "title": "Cursor Hits $2B ARR: How AI Automations Replace Coding",
+      "url": "https://letsdatascience.com/blog/cursor-hit-2-billion-in-revenue-then-it-told-developers-to-stop-coding",
+      "source": "letsdatascience.com",
+      "seen": "2026-06-14"
     },
     {
       "title": "SpaceX's $60B agreement to acquire Cursor is wild, but the $10B ...",
       "url": "https://www.reddit.com/r/cursor/comments/1ss7z42/spacexs_60b_agreement_to_acquire_cursor_is_wild/",
       "source": "reddit.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "So SpaceX bought a $60B Option on Cursor, plus a bunch of ...",
       "url": "https://news.ycombinator.com/item?id=47856926",
       "source": "news.ycombinator.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
-      "title": "Cursor partners with SpaceX on model training",
-      "url": "https://cursor.com/blog/spacex-model-training",
-      "source": "cursor.com",
-      "seen": "2026-06-13"
-    },
-    {
-      "title": "SpaceX Bets $60 Billion On Cursor AI. The Real Winner Is A Surprise",
-      "url": "https://www.forbes.com/sites/sandycarter/2026/04/23/spacex-bets-60-billion-on-cursor-ai-the-real-winner-is-a-surprise/",
-      "source": "forbes.com",
-      "seen": "2026-06-13"
-    },
-    {
-      "title": "Congratulations Cursor on being acquired by SpaceX! - Kilo Blog",
-      "url": "https://blog.kilo.ai/p/congratulations-cursor-on-being-acquired",
-      "source": "blog.kilo.ai",
-      "seen": "2026-06-13"
+      "title": "SpaceX",
+      "url": "https://x.com/SpaceX/status/2046713419978453374?lang=en",
+      "source": "x.com",
+      "seen": "2026-06-14"
     }
   ],
   "adoption_signals": [
@@ -215,73 +215,73 @@
       "title": "Cursor: AI coding agent",
       "url": "https://cursor.com/",
       "source": "cursor.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
-      "title": "I just realized everything is about to change. Everything. : r/cursor",
-      "url": "https://www.reddit.com/r/cursor/comments/1ivhb0b/i_just_realized_everything_is_about_to_change/",
+      "title": "Do companies let engineers use agents like Claude or Cursor?",
+      "url": "https://www.reddit.com/r/cursor/comments/1pqp4cg/do_companies_let_engineers_use_agents_like_claude/",
       "source": "reddit.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "Cursor AI: The AI Code Editor developers are using - The Tech Society",
       "url": "https://digitalstrategy-ai.com/2025/11/07/cursor-ai-business-model/",
       "source": "digitalstrategy-ai.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "Cursor (company) - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Cursor_(company)",
       "source": "en.wikipedia.org",
-      "seen": "2026-06-13"
-    },
-    {
-      "title": "Cursor AI for Engineering Teams: Features, Pricing & Setup 2026",
-      "url": "https://productgrowth.in/tools/ai-llm/cursor/",
-      "source": "productgrowth.in",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "Cursor for Enterprise \u2014 Trusted by 64% of Fortune 500 companies",
       "url": "https://cursor.com/enterprise",
       "source": "cursor.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "Claude Code vs Cursor: Which Tool for Enterprise? - Boldare",
       "url": "https://www.boldare.com/blog/claude-code-vs-cursor-enterprise/",
       "source": "boldare.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "Cursor releases new features for enterprise customers - LinkedIn",
       "url": "https://www.linkedin.com/posts/cursorai_cursor-is-used-by-tens-of-thousands-of-enterprises-activity-7390055387942674432--h1S",
       "source": "linkedin.com",
-      "seen": "2026-06-13"
-    },
-    {
-      "title": "Why Cursor is a risk for enterprises: a detailed evaluation - LinkedIn",
-      "url": "https://www.linkedin.com/posts/devansh-devansh-516004168_ive-spent-hundreds-of-hours-evaluating-cursor-activity-7318693323135684608-NI7Z",
-      "source": "linkedin.com",
-      "seen": "2026-06-13"
-    },
-    {
-      "title": "Cursor Organizations: Govern Enterprise AI Coding at Scale",
-      "url": "https://www.digitalapplied.com/blog/cursor-organizations-enterprise-ai-coding-governance-2026",
-      "source": "digitalapplied.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
       "title": "Cursor & Enterprise environments - Reddit",
       "url": "https://www.reddit.com/r/cursor/comments/1s20lmf/cursor_enterprise_environments/",
       "source": "reddit.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     },
     {
-      "title": "Got Freelancing Job With Cursor AI - Reddit",
-      "url": "https://www.reddit.com/r/cursor/comments/1g6ycef/got_freelancing_job_with_cursor_ai/",
+      "title": "Cursor Organizations: Govern Enterprise AI Coding at Scale",
+      "url": "https://www.digitalapplied.com/blog/cursor-organizations-enterprise-ai-coding-governance-2026",
+      "source": "digitalapplied.com",
+      "seen": "2026-06-14"
+    },
+    {
+      "title": "Why Cursor is a risk for enterprises: a detailed evaluation - LinkedIn",
+      "url": "https://www.linkedin.com/posts/devansh-devansh-516004168_ive-spent-hundreds-of-hours-evaluating-cursor-activity-7318693323135684608-NI7Z",
+      "source": "linkedin.com",
+      "seen": "2026-06-14"
+    },
+    {
+      "title": "Future Job Applications asking for AI Programmers? - Discussions",
+      "url": "https://forum.cursor.com/t/future-job-applications-asking-for-ai-programmers/4609",
+      "source": "forum.cursor.com",
+      "seen": "2026-06-14"
+    },
+    {
+      "title": "Is anyone successfully using AI assisted coding tools (cursor, copilot ...",
+      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1l8ryy1/is_anyone_successfully_using_ai_assisted_coding/",
       "source": "reddit.com",
-      "seen": "2026-06-13"
+      "seen": "2026-06-14"
     }
   ],
   "videos": [
