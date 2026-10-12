@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-10-11
+## 🖱️ Cursor Watch — 2026-10-12
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
@@ -7,14 +7,14 @@
 **Shipped (latest, v— · Oct 6, 2026):** You can now see and reply to the local agents running on your computer from the Cursor iOS app.
 
 **Adoption signals today:**
-- [Cursor AI Adoption Trends: Real Data from the Fastest Growing Coding Tool](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
-- [Cursor (company) - Wikipedia](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
-- [A professional engineer, I finally started using AI : r/cursor - Reddit](https://www.reddit.com/r/cursor/comments/1lp2evh/a_professional_engineer_i_finally_started_using_ai/) — _reddit.com_
+- [Cursor AI Adoption Trends: Real Data from the Fastest ...](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
+- [Cursor (company)](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
+- [A professional engineer, I finally started using AI : r/cursor](https://www.reddit.com/r/cursor/comments/1lp2evh/a_professional_engineer_i_finally_started_using_ai/) — _reddit.com_
 
 **In the news:**
 - [Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...](https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation) — _theinformation.com_
-- [Cursor Valuation: $60B (Aug 2026) — 150x in 2 Years - Value Add VC](https://valueaddvc.com/blog/cursor-ai-valuation-how-a-code-editor-became-a-9b-company) — _valueaddvc.com_
 - [Anysphere (Cursor) Valuation - PM Insights](https://www.pminsights.com/companies/anysphere-cursor) — _pminsights.com_
+- [Cursor Valuation: $60B (Aug 2026) — 150x in 2 Years - Value Add VC](https://valueaddvc.com/blog/cursor-ai-valuation-how-a-code-editor-became-a-9b-company) — _valueaddvc.com_
 
 **▶️ Watch it built:** [Cursor AI Tutorial for Beginners: Build an App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)
 
