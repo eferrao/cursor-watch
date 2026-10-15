@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-10-14
+## 🖱️ Cursor Watch — 2026-10-15
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
@@ -9,12 +9,12 @@
 **Adoption signals today:**
 - [Cursor AI Adoption Trends: Real Data from the Fastest Growing Coding Tool](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
 - [Cursor (company) - Wikipedia](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
-- [Cursor: AI Coding Agents and Developer Tools - AI Engineer](https://ai.engineer/orgs/cursor) — _ai.engineer_
+- [As an Engineering Manager, I Let Cursor Rewrite Our Legacy App](https://medium.com/@reachtovijendra/as-an-engineering-manager-i-let-cursor-rewrite-our-legacy-app-heres-what-i-learned-about-ai-e6eecf080148) — _medium.com_
 
 **In the news:**
-- [Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...](https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation) — _theinformation.com_
-- [Anysphere (Cursor) Valuation - PM Insights](https://www.pminsights.com/companies/anysphere-cursor) — _pminsights.com_
-- [Cursor Valuation: $60B (Aug 2026) — 150x in 2 Years - Value Add VC](https://valueaddvc.com/blog/cursor-ai-valuation-how-a-code-editor-became-a-9b-company) — _valueaddvc.com_
+- [Cursor is raising $2 billion at a $50 billion valuation as AI ...](https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding) — _thenextweb.com_
+- [Anysphere (Cursor) Valuation](https://www.pminsights.com/companies/anysphere-cursor) — _pminsights.com_
+- [AI-Powered Coding Tool Anysphere Raises $900M at $9.9 ...](https://news.crunchbase.com/ai/anysphere-cursor-venture-funding-thrive/) — _news.crunchbase.com_
 
 **▶️ Watch it built:** [Cursor AI Tutorial for Beginners: Build an App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)
 
