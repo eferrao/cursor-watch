@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-10-15
+## 🖱️ Cursor Watch — 2026-10-16
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
@@ -9,7 +9,7 @@
 **Adoption signals today:**
 - [Cursor AI Adoption Trends: Real Data from the Fastest Growing Coding Tool](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
 - [Cursor (company) - Wikipedia](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
-- [As an Engineering Manager, I Let Cursor Rewrite Our Legacy App](https://medium.com/@reachtovijendra/as-an-engineering-manager-i-let-cursor-rewrite-our-legacy-app-heres-what-i-learned-about-ai-e6eecf080148) — _medium.com_
+- [If AI writes and tests the code, what are the developers roles now?](https://www.reddit.com/r/cursor/comments/1u6yq3l/if_ai_writes_and_tests_the_code_what_are_the/) — _reddit.com_
 
 **In the news:**
 - [Cursor is raising $2 billion at a $50 billion valuation as AI ...](https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding) — _thenextweb.com_
