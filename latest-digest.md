@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-10-19
+## 🖱️ Cursor Watch — 2026-10-20
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
@@ -7,9 +7,9 @@
 **Shipped (latest, v— · Oct 16, 2026):** The Environments API is now available in beta. Use it to programmatically create and manage the cloud environments your agents run in.
 
 **Adoption signals today:**
-- [Cursor AI Adoption Trends: Real Data from the Fastest Growing Coding Tool](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
-- [Cursor (company) - Wikipedia](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
-- [A professional engineer, I finally started using AI : r/cursor - Reddit](https://www.reddit.com/r/cursor/comments/1lp2evh/a_professional_engineer_i_finally_started_using_ai/) — _reddit.com_
+- [Cursor AI Adoption Trends: Real Data from the Fastest ...](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
+- [Cursor AI just closed a huge round | Mohit Prakash](https://www.linkedin.com/posts/mohitprakash89_cursor-ai-just-closed-a-huge-round-that-puts-activity-7394786426615259136-aOnx) — _linkedin.com_
+- [Cursor (company)](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
 
 **In the news:**
 - [Cursor is raising $2 billion at a $50 billion valuation as AI coding tools ...](https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding) — _thenextweb.com_
