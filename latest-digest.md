@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-10-21
+## 🖱️ Cursor Watch — 2026-10-22
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
