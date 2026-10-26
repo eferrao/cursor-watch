@@ -1,10 +1,10 @@
-## 🖱️ Cursor Watch — 2026-10-25
+## 🖱️ Cursor Watch — 2026-10-26
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
 **Headline:** SpaceX (which merged xAI into its AI division Feb 2026) holds an option to acquire Cursor for ~$60B, or pay $10B for joint work, ~30 days after SpaceX's planned IPO (projected June 12, 2026).
 
-**Shipped (latest, v— · Oct 16, 2026):** The Environments API is now available in beta. Use it to programmatically create and manage the cloud environments your agents run in.
+**Shipped (latest, v— · Oct 16, 2026):** Enter fullscreen modeExit fullscreen mode
 
 **Adoption signals today:**
 - [Cursor AI Adoption Trends: Real Data from the Fastest Growing Coding Tool](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
@@ -12,9 +12,9 @@
 - [A professional engineer, I finally started using AI : r/cursor - Reddit](https://www.reddit.com/r/cursor/comments/1lp2evh/a_professional_engineer_i_finally_started_using_ai/) — _reddit.com_
 
 **In the news:**
-- [Cursor is raising $2 billion at a $50 billion valuation as AI coding tools ...](https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding) — _thenextweb.com_
+- [Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...](https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation) — _theinformation.com_
 - [Anysphere (Cursor) Valuation - PM Insights](https://www.pminsights.com/companies/anysphere-cursor) — _pminsights.com_
-- [AI Firm Cursor Hits $29.3 Billion Valuation After Fresh Funding ...](https://www.tradealgo.com/news/ai-firm-cursor-hits-29-3-billion-valuation-after-fresh-funding-according-to-wsj) — _tradealgo.com_
+- [Cursor is raising $2 billion at a $50 billion valuation as AI coding tools ...](https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding) — _thenextweb.com_
 
 **▶️ Watch it built:** [Cursor AI Tutorial for Beginners: Build an App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)
 
