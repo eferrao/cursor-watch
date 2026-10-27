@@ -1,15 +1,15 @@
-## 🖱️ Cursor Watch — 2026-10-26
+## 🖱️ Cursor Watch — 2026-10-27
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
 **Headline:** SpaceX (which merged xAI into its AI division Feb 2026) holds an option to acquire Cursor for ~$60B, or pay $10B for joint work, ~30 days after SpaceX's planned IPO (projected June 12, 2026).
 
-**Shipped (latest, v— · Oct 16, 2026):** Enter fullscreen modeExit fullscreen mode
+**Shipped (latest, v— · Oct 20, 2026):** Enter fullscreen modeExit fullscreen mode
 
 **Adoption signals today:**
 - [Cursor AI Adoption Trends: Real Data from the Fastest Growing Coding Tool](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
 - [Cursor (company) - Wikipedia](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
-- [A professional engineer, I finally started using AI : r/cursor - Reddit](https://www.reddit.com/r/cursor/comments/1lp2evh/a_professional_engineer_i_finally_started_using_ai/) — _reddit.com_
+- [Cursor: AI Coding Agents and Developer Tools - AI Engineer](https://ai.engineer/orgs/cursor) — _ai.engineer_
 
 **In the news:**
 - [Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...](https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation) — _theinformation.com_
