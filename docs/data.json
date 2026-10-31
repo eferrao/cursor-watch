@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30 16:57 UTC",
-  "as_of": "2026-10-30",
+  "generated_at": "2026-10-31 15:58 UTC",
+  "as_of": "2026-10-31",
   "company": {
     "product": "Cursor",
     "company_name": "Anysphere",
@@ -109,13 +109,13 @@
       "version": "\u2014",
       "date": "Oct 20, 2026",
       "url": "https://cursor.com/changelog/agent-sdk",
-      "summary": "Enter fullscreen modeExit fullscreen mode"
+      "summary": "The Agent SDK is available today. It allows you to define an agent as a folder of code, test it with evals, and deploy it to Cursor or your own infrastructure."
     },
     {
       "version": "\u2014",
       "date": "Oct 16, 2026",
       "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
-      "summary": "Enter fullscreen modeExit fullscreen mode"
+      "summary": "The Environments API is now available in beta. Use it to programmatically create and manage the cloud environments your agents run in."
     },
     {
       "version": "\u2014",
@@ -138,76 +138,76 @@
   ],
   "news": [
     {
-      "title": "Cursor-Maker Anysphere Considers Investment Offers at ...",
+      "title": "Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...",
       "url": "https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation",
       "source": "theinformation.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
-      "title": "Anysphere (Cursor) Valuation",
+      "title": "Anysphere (Cursor) Valuation - PM Insights",
       "url": "https://www.pminsights.com/companies/anysphere-cursor",
       "source": "pminsights.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
-      "title": "Cursor is raising $2 billion at a $50 billion valuation as AI ...",
+      "title": "Cursor is raising $2 billion at a $50 billion valuation as AI coding tools ...",
       "url": "https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding",
       "source": "thenextweb.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
-      "title": "Anysphere (Cursor AI) IPO Timeline and Financing Details",
+      "title": "Anysphere (Cursor AI) IPO Timeline and Financing Details - Forge Global",
       "url": "https://forgeglobal.com/anysphere_ipo/",
       "source": "forgeglobal.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
-      "title": "AI Firm Cursor Hits $29.3 Billion Valuation After Fresh ...",
+      "title": "AI Firm Cursor Hits $29.3 Billion Valuation After Fresh Funding ...",
       "url": "https://www.tradealgo.com/news/ai-firm-cursor-hits-29-3-billion-valuation-after-fresh-funding-according-to-wsj",
       "source": "tradealgo.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
-      "title": "Anysphere's Cursor soars to $29B valuation with $2.3B ...",
+      "title": "Anysphere's Cursor soars to $29B valuation with $2.3B round led by ...",
       "url": "https://techfundingnews.com/anysphere-soars-to-29-3b-valuation-with-2-3b-funding-redefining-the-future-of-coding/",
       "source": "techfundingnews.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor to raise $2B from Andreessen Horowitz and Thrive Capital at a ...",
       "url": "https://techfundingnews.com/cursor-anysphere-2b-funding-50b-valuation-ai-coding/",
       "source": "techfundingnews.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor",
       "url": "https://anysphere.inc/",
       "source": "anysphere.inc",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor: AI Coding Agent for Building Ambitious Software",
       "url": "https://cursor.com/",
       "source": "cursor.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
+    },
+    {
+      "title": "SpaceX announces $60 billion Cursor deal to boost AI coding",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-announces-60-billion-cursor-deal-to-boost-ai-coding-125509159.html",
+      "source": "finance.yahoo.com",
+      "seen": "2026-10-31"
+    },
+    {
+      "title": "Cursor Review 2026: The AI Code Editor That Replaced VS Code",
+      "url": "https://www.reddit.com/r/cursor/comments/1t28fxd/cursor_review_2026_the_ai_code_editor_that/",
+      "source": "reddit.com",
+      "seen": "2026-10-31"
     },
     {
       "title": "An honest Anysphere review (2026): Cursor after the SpaceX deal",
       "url": "https://www.eesel.ai/blog/anysphere-review",
       "source": "eesel.ai",
-      "seen": "2026-10-30"
-    },
-    {
-      "title": "Cursor AI Review 2026: Features, Pricing & How It Works - Innostax",
-      "url": "https://innostax.com/blog/speeding-up-software-development-with-cursor-ai/",
-      "source": "innostax.com",
-      "seen": "2026-10-30"
-    },
-    {
-      "title": "Cursor is now a part of SpaceX",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "source": "cursor.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     }
   ],
   "adoption_signals": [
@@ -215,73 +215,73 @@
       "title": "Cursor AI Adoption Trends: Real Data from the Fastest Growing Coding Tool",
       "url": "https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool",
       "source": "opsera.ai",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor (company) - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Cursor_(company)",
       "source": "en.wikipedia.org",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor: AI Coding Agents and Developer Tools - AI Engineer",
       "url": "https://ai.engineer/orgs/cursor",
       "source": "ai.engineer",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "A professional engineer, I finally started using AI : r/cursor - Reddit",
       "url": "https://www.reddit.com/r/cursor/comments/1lp2evh/a_professional_engineer_i_finally_started_using_ai/",
       "source": "reddit.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor for Enterprise \u2014 Trusted by 64% of Fortune 500 companies",
       "url": "https://cursor.com/enterprise",
       "source": "cursor.com",
-      "seen": "2026-10-30"
-    },
-    {
-      "title": "Is Cursor IDE safe for enterprise development teams? | Boldare",
-      "url": "https://www.boldare.com/blog/is-cursor-ide-safe-for-enterprise/",
-      "source": "boldare.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Introducing Cursor for Enterprise",
       "url": "https://cursor.com/blog/enterprise",
       "source": "cursor.com",
-      "seen": "2026-10-30"
-    },
-    {
-      "title": "Enterprise Software Development with Cursor AI Editor - iCertGlobal",
-      "url": "https://www.icertglobal.com/community/enterprise-software-development-with-cursor-ai-editor",
-      "source": "icertglobal.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor Organizations: Govern Enterprise AI Coding at Scale",
       "url": "https://www.digitalapplied.com/blog/cursor-organizations-enterprise-ai-coding-governance-2026",
       "source": "digitalapplied.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
+    },
+    {
+      "title": "Enterprise Software Development with Cursor AI Editor - iCertGlobal",
+      "url": "https://www.icertglobal.com/community/enterprise-software-development-with-cursor-ai-editor",
+      "source": "icertglobal.com",
+      "seen": "2026-10-31"
+    },
+    {
+      "title": "Cursor best practices for enterprise teams - Portkey",
+      "url": "https://portkey.ai/blog/cursor-best-practices-for-enterprise-teams/",
+      "source": "portkey.ai",
+      "seen": "2026-10-31"
     },
     {
       "title": "Why Cursor is a risk for enterprises: a detailed evaluation - LinkedIn",
       "url": "https://www.linkedin.com/posts/devansh-devansh-516004168_ive-spent-hundreds-of-hours-evaluating-cursor-activity-7318693323135684608-NI7Z",
       "source": "linkedin.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor \u00b7 Careers",
       "url": "https://cursor.com/careers",
       "source": "cursor.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "title": "Cursor Ai Jobs (NOW HIRING) Oct 26 - ZipRecruiter",
       "url": "https://www.ziprecruiter.com/Jobs/Cursor-Ai",
       "source": "ziprecruiter.com",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     }
   ],
   "videos": [
@@ -296,23 +296,23 @@
       "note": "Full workflow walkthrough"
     },
     {
-      "title": "Cursor 3.0 - Full Course for Beginners",
+      "title": "Cursor 3.0 - Full Course for Beginners - YouTube",
       "id": "Tv8mLrLtyxo",
       "note": ""
     },
     {
-      "title": "How to Build an App with AI using Cursor - (FULL TUTORIAL)",
-      "id": "U1Lvdt8X4q8",
+      "title": "Cursor 2.0 - Full Tutorial for Beginners - YouTube",
+      "id": "l30Eb76Tk5s",
       "note": ""
     },
     {
-      "title": "The Perfect Cursor AI Workflow (3 Simple Steps)",
-      "id": "Jem2yqhXFaU",
+      "title": "How to Build an App with AI using Cursor - (Lesson 1) - YouTube",
+      "id": "sUlFpmP5j0o",
       "note": ""
     },
     {
-      "title": "Watch this before getting started with Cursor | AI coding",
-      "id": "eZhr8OINt2c",
+      "title": "Cursor 3.0 Ultimate Guide: Beginner to Pro in 60 min - YouTube",
+      "id": "5DnOOa-5dTU",
       "note": ""
     }
   ]
