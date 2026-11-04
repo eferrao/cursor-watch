@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-11-03
+## 🖱️ Cursor Watch — 2026-11-04
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
@@ -7,9 +7,9 @@
 **Shipped (latest, v— · Oct 20, 2026):** The Agent SDK is available today. It allows you to define an agent as a folder of code, test it with evals, and deploy it to Cursor or your own infrastructure.
 
 **Adoption signals today:**
-- [Cursor (company)](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
-- [Cursor AI Adoption Trends: Real Data from the Fastest ...](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
-- [Cursor: AI Coding Agents and Developer Tools - AI Engineer](https://ai.engineer/orgs/cursor) — _ai.engineer_
+- [Cursor (company) - Wikipedia](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
+- [Cursor AI Adoption Trends: Real Data from the Fastest Growing Coding Tool](https://opsera.ai/blog/cursor-ai-adoption-trends-real-data-from-the-fastest-growing-coding-tool) — _opsera.ai_
+- [Salesforce bets on AI code editor Cursor for 20000 engineers - LinkedIn](https://www.linkedin.com/posts/tech-retriever_salesforce-gave-cursor-to-20000-engineers-activity-7439974131695104000-5LpP) — _linkedin.com_
 
 **In the news:**
 - [Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...](https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation) — _theinformation.com_
