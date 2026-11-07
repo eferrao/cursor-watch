@@ -1,10 +1,10 @@
-## 🖱️ Cursor Watch — 2026-11-06
+## 🖱️ Cursor Watch — 2026-11-07
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
 **Headline:** SpaceX (which merged xAI into its AI division Feb 2026) holds an option to acquire Cursor for ~$60B, or pay $10B for joint work, ~30 days after SpaceX's planned IPO (projected June 12, 2026).
 
-**Shipped (latest, v— · Nov 5, 2026):** Agents have lowered the cost of writing code, but most apps and tools that users build never make it off of localhost.
+**Shipped (latest, v— · Nov 6, 2026):** You can now talk with your agents in a realtime voice call. Describe a change out loud, ask what an agent is working on, and hear updates as the work moves forward.
 
 **Adoption signals today:**
 - [Cursor: AI Coding Agent for Building Ambitious Software](https://cursor.com/) — _cursor.com_
