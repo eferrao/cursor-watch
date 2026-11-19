@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-11-18
+## 🖱️ Cursor Watch — 2026-11-19
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
@@ -7,9 +7,9 @@
 **Shipped (latest, v— · Nov 6, 2026):** You can now talk with your agents in a realtime voice call. Describe a change out loud, ask what an agent is working on, and hear updates as the work moves forward.
 
 **Adoption signals today:**
-- [Cursor (company)](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
-- [Cursor users: has AI actually made you a better developer, or just faster?](https://www.reddit.com/r/cursor/comments/1how2aa/cursor_users_has_ai_actually_made_you_a_better/) — _reddit.com_
-- [Cursor · Customers](https://cursor.com/customers) — _cursor.com_
+- [Salesforce bets on AI code editor Cursor for 20000 engineers](https://www.linkedin.com/posts/tech-retriever_salesforce-gave-cursor-to-20000-engineers-activity-7439974131695104000-5LpP) — _linkedin.com_
+- [A rocket company just paid sixty billion for a code editor. Sounds insane. It isn't.](https://www.reddit.com/r/adtech/comments/1vxyfd3/a_rocket_company_just_paid_sixty_billion_for_a/) — _reddit.com_
+- [Nvidia now produces three times as much code as before AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-now-produces-three-times-as-much-code-as-before-ai-specialized-version-of-cursor-is-being-used-by-over-30-000-nvidia-engineers-internally) — _tomshardware.com_
 
 **In the news:**
 - [AI startup Cursor raises $2.3 billion round at $29.3 billion valuation](https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html) — _cnbc.com_
