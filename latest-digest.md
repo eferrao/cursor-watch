@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-11-21
+## 🖱️ Cursor Watch — 2026-11-22
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
@@ -13,8 +13,8 @@
 
 **In the news:**
 - [Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...](https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation) — _theinformation.com_
-- [Anysphere's Cursor soars to $29B valuation with $2.3B round led by ...](https://techfundingnews.com/anysphere-soars-to-29-3b-valuation-with-2-3b-funding-redefining-the-future-of-coding/) — _techfundingnews.com_
-- [Anysphere (Cursor) Valuation](https://www.pminsights.com/companies/anysphere-cursor) — _pminsights.com_
+- [Anysphere (Cursor AI) IPO Timeline and Financing Details](https://forgeglobal.com/anysphere_ipo/) — _forgeglobal.com_
+- [Cursor to raise $2B from Andreessen Horowitz and Thrive Capital at a $50 ...](https://techfundingnews.com/cursor-anysphere-2b-funding-50b-valuation-ai-coding/) — _techfundingnews.com_
 
 **▶️ Watch it built:** [Cursor AI Tutorial for Beginners: Build an App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)
 
