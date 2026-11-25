@@ -1,4 +1,4 @@
-## 🖱️ Cursor Watch — 2026-11-24
+## 🖱️ Cursor Watch — 2026-11-25
 
 **Where it stands:** $29.3B (Nov 2025, Series D) — reportedly in talks for a new round at ~$50B (Apr 2026). ~$2B ARR (reported Feb 2026); company forecasting $6B+ by end of 2026. Used by 64% of Fortune 500 companies (per cursor.com/enterprise).
 
@@ -7,9 +7,9 @@
 **Shipped (latest, v— · Nov 6, 2026):** You can now talk with your agents in a realtime voice call. Describe a change out loud, ask what an agent is working on, and hear updates as the work moves forward.
 
 **Adoption signals today:**
-- [Salesforce bets on AI code editor Cursor for 20000 engineers](https://www.linkedin.com/posts/tech-retriever_salesforce-gave-cursor-to-20000-engineers-activity-7439974131695104000-5LpP) — _linkedin.com_
+- [Cursor: AI Coding Agent for Building Ambitious Software](https://cursor.com/) — _cursor.com_
 - [Cursor (company)](https://en.wikipedia.org/wiki/Cursor_(company)) — _en.wikipedia.org_
-- [What Is Cursor? The AI Code Editor and Its Capabilities](https://builtin.com/articles/what-is-cursor-ai) — _builtin.com_
+- [Are AI tools like cursor going to replace software engineers? : r/cscareers](https://www.reddit.com/r/cscareers/comments/1o7snfr/are_ai_tools_like_cursor_going_to_replace/) — _reddit.com_
 
 **In the news:**
 - [Cursor-Maker Anysphere Considers Investment Offers at $30 Billion ...](https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation) — _theinformation.com_
